@@ -6,7 +6,6 @@ antigravity-ide/
 .vscode/
 dist/
 build/
-package-lock.json
 
 # Environment — contains real API keys, never commit
 env.js

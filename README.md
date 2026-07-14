@@ -51,6 +51,13 @@ Here is a preview of the CivicFix AI citizen dashboard showing active reports, l
 
 ---
 
+## 👩‍💻 Contributors
+
+- **Jhanvi Goel**
+- **Diksha Pawar**
+
+---
+
 ## 📊 System Architecture & Workflows
 
 ### 1. High-Level Architecture

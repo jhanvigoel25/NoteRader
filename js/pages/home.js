@@ -519,6 +519,7 @@ const HomePage = {
   initMiniMap(lat, lng, category, status) {
     const container = document.getElementById('modal-map');
     if (!container) return;
+    if (!window.MapHelper || !window.MapHelper.isGoogleMapsAvailable()) return;
 
     const map = new google.maps.Map(container, {
       center: { lat: lat, lng: lng },

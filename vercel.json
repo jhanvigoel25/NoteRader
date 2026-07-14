@@ -19,6 +19,7 @@
       ]
     }
   ],
+  "buildCommand": "node scripts/vercel-build.js",
   "outputDirectory": ".",
   "framework": null
 }

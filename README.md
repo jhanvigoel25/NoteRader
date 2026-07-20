@@ -57,6 +57,7 @@ Here is a preview of the CivicFix AI citizen dashboard showing active reports, l
 
 - **Jhanvi Goel**
 - **Diksha Pawar**
+- **Deveshi**
 
 ---
 
